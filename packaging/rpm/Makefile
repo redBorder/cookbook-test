@@ -1,4 +1,4 @@
-PACKAGE_NAME?=	cookbook-druid
+PACKAGE_NAME?=	cookbook-test
 
 VERSION?=	$(shell git describe --abbrev=6 --tags HEAD --always | sed 's/-/_/g')
 
